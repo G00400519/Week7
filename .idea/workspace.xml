@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93fd52dd-3ac1-4048-b1b3-1dad7ea8dd90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsingTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UsingTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Week7/UsingTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UsingTryCatch.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +42,7 @@
   </component>
   <component name="RunManager">
     <configuration name="UsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsingTryCatch" />
+      <option name="MAIN_CLASS_NAME" value="ie.atu.Week7.UsingTryCatch" />
       <module name="Week7" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,11 +62,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667913596832</updated>
-      <workItem from="1667913599004" duration="610000" />
+      <workItem from="1667913599004" duration="1642000" />
     </task>
+    <task id="LOCAL-00001" summary="File &quot;Week7&quot; transfer">
+      <created>1667914398412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914398412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File &quot;Week7&quot; transfer" />
+    <option name="LAST_COMMIT_MESSAGE" value="File &quot;Week7&quot; transfer" />
   </component>
 </project>
